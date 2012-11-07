@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>QUnit SubsuiteRunner Test Suite</title>
+
+	<link rel="stylesheet" href="lib/qunit/1.10.0/qunit.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="lib/qunit/1.10.0/plugins/composite/qunit-composite.css">
+	<script src="lib/qunit/1.10.0/qunit.js"></script>
+	<script src="lib/qunit/1.10.0/plugins/composite/qunit-composite.js"></script>
+
+	<script>
+	QUnit.testSuites([
+		"interface-pattern/interface-pattern-tests.html",
+		"observer-pattern/observer-pattern-tests.html"
+   	]);
+	</script>
+</head>
+<body>
+	<div id="qunit"></div>
+	<div id="qunit-fixture">
+</div>
+</body>
+</html>
