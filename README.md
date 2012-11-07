@@ -13,3 +13,8 @@ Test framework
 --------------
 
 * *QUnit* - version 1.10.0
+
+GitHub project site
+-------------------
+
+[Js-patterns project site](http://cyberlight.github.com/js-patterns/)
