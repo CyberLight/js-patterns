@@ -1,8 +1,9 @@
 js-patterns
 ===========
 
-This repository created for learning JS patterns using TDD
-I will be try to add new patterns with tests at my free time
+* This repository created for learning JS patterns using TDD
+* I will be try to add new patterns with tests at my free time
+
 
 Added patterns
 --------------
