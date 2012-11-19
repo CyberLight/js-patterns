@@ -10,6 +10,7 @@ Added patterns
 
 * Interface pattern with tests
 * Observer pattern with tests
+* Singleton pattern with tests
 
 Test framework
 --------------
