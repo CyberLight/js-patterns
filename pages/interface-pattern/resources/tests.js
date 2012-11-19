@@ -2,11 +2,9 @@ var ITest;
 
 module( "Interface pattern tests", {
   setup: function() {
-	ITest = new jspatterns.contracts.Interface('ITest', ['getValue', 'setValue']);
-    ok(true,'setup')
+	ITest = new jspatterns.contracts.Interface('ITest', ['getValue', 'setValue']);    
   }, teardown: function() {
-	delete ITest
-    ok(true,'teardown')
+	delete ITest    
   }
 });
 
